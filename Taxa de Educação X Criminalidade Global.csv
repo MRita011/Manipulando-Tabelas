@@ -1,0 +1,181 @@
+País,Indíce de Educação,Nível Educacional,Salário Médio,Cidades,Indíce de Criminalidade,População Sem Educação Formal,População Com Educação Formal
+Argentina,0.816,Very High Education Level,High income,"Caracas, Venezuela",83.98,1.0,99.0
+Australia,0.929,Very High Education Level,High income,"Pretoria, South Africa",81.98,13.0,87.0
+Austria,0.852,Very High Education Level,High income,"Celaya, Mexico",81.8,2.0,98.0
+Bahamas,0.726,High to Moderate Education Level,High income,"San Pedro Sula, Honduras",80.87,0.0,100.0
+Bahrain,0.758,High to Moderate Education Level,High income,"Port Moresby, Papua New Guinea",80.71,5.0,95.0
+Barbados,0.777,High to Moderate Education Level,High income,"Durban, South Africa",80.6,0.0,100.0
+Belgium,0.893,Very High Education Level,High income,"Johannesburg, South Africa",80.55,0.0,100.0
+Brunei Darussalam,0.704,High to Moderate Education Level,High income,"Kabul, Afghanistan",79.39,1.0,99.0
+Canada,0.899,Very High Education Level,High income,"Rio de Janeiro, Brazil",77.93,1.0,99.0
+Chile,0.8,Very High Education Level,High income,"Natal, Brazil",77.69,5.0,95.0
+Croatia,0.791,High to Moderate Education Level,High income,"Fortaleza, Brazil",77.36,25.0,75.0
+Cyprus,0.808,Very High Education Level,High income,"Port Elizabeth, South Africa",76.44,0.0,100.0
+Czechia,0.893,Very High Education Level,High income,"Recife, Brazil",76.42,2.0,98.0
+Denmark,0.92,Very High Education Level,High income,"Port of Spain, Trinidad And Tobago",76.21,5.0,95.0
+Estonia,0.869,Very High Education Level,High income,"Baltimore, MD, United States",75.75,41.0,59.0
+Finland,0.906,Very High Education Level,High income,"Salvador, Brazil",75.69,39.0,61.0
+France,0.804,Very High Education Level,High income,"Rosario, Argentina",75.11,5.0,95.0
+Germany,0.94,Very High Education Level,High income,"Memphis, TN, United States",74.76,4.0,96.0
+Greece,0.838,Very High Education Level,High income,"Detroit, MI, United States",74.63,6.0,94.0
+China Hong Kong SAR,0.855,Very High Education Level,High income,"Rockhampton, Australia",73.51,1.0,99.0
+Hungary,0.815,Very High Education Level,High income,"Cape Town, South Africa",73.13,64.0,36.0
+Iceland,0.912,Very High Education Level,High income,"Porto Alegre, Brazil",72.92,34.0,66.0
+Ireland,0.918,Very High Education Level,High income,"Tijuana, Mexico",71.87,17.0,83.0
+Israel,0.874,Very High Education Level,High income,"Kingston, Jamaica",71.44,12.0,88.0
+Italy,0.791,High to Moderate Education Level,High income,"Bloemfontein, South Africa",71.32,1.0,99.0
+Japan,0.848,Very High Education Level,High income,"Bradford, United Kingdom",71.24,9.0,91.0
+Kuwait,0.62,High to Moderate Education Level,High income,"Albuquerque, NM, United States",70.93,21.0,79.0
+Latvia,0.866,Very High Education Level,High income,"Lima, Peru",70.7,56.0,44.0
+Lithuania,0.879,Very High Education Level,High income,"Guayaquil, Ecuador",70.59,2.0,98.0
+Luxembourg,0.792,High to Moderate Education Level,High income,"Sao Paulo, Brazil",70.49,5.0,95.0
+Malta,0.818,Very High Education Level,High income,"Saint Louis, MO, United States",70.46,5.0,95.0
+Netherlands,0.906,Very High Education Level,High income,"San Salvador, El Salvador",69.79,19.0,81.0
+New Zealand,0.917,Very High Education Level,High income,"Cali, Colombia",69.5,4.0,96.0
+Norway,0.915,Very High Education Level,High income,"Mexico City, Mexico",68.86,2.0,98.0
+Oman,0.706,High to Moderate Education Level,High income,"Windhoek, Namibia",68.64,35.0,65.0
+Panama,0.692,High to Moderate Education Level,High income,"San Juan, Puerto Rico",68.55,1.0,99.0
+Poland,0.866,Very High Education Level,High income,"Santo Domingo, Dominican Republic",68.37,1.0,99.0
+Portugal,0.759,High to Moderate Education Level,High income,"Coventry, United Kingdom",68.35,0.0,100.0
+Qatar,0.698,High to Moderate Education Level,High income,"Damascus, Syria",67.94,0.0,100.0
+Republic of Korea,0.862,Very High Education Level,High income,"Luanda, Angola",67.45,10.0,90.0
+Saudi Arabia,0.787,High to Moderate Education Level,High income,"New Orleans, LA, United States",67.05,0.0,100.0
+Singapore,0.832,Very High Education Level,High income,"Milwaukee, WI, United States",66.78,1.0,99.0
+Slovakia,0.831,Very High Education Level,High income,"Campinas, Brazil",66.74,21.0,79.0
+Slovenia,0.886,Very High Education Level,High income,"Oakland, CA, United States",66.54,5.0,95.0
+Spain,0.824,Very High Education Level,High income,"Lagos, Nigeria",66.22,23.0,77.0
+Sweden,0.904,Very High Education Level,High income,"Chicago, IL, United States",66.1,12.0,88.0
+Switzerland,0.897,Very High Education Level,High income,"Nantes, France",65.7,6.0,94.0
+Taiwan Province of China,,,High income,"Bogota, Colombia",65.42,0.0,100.0
+Trinidad and Tobago,0.722,High to Moderate Education Level,High income,"Manila, Philippines",64.72,6.0,94.0
+United Arab Emirates,0.738,High to Moderate Education Level,High income,"Surrey, Canada",64.58,38.0,62.0
+United Kingdom,0.914,Very High Education Level,High income,"Cleveland, OH, United States",64.39,0.0,100.0
+United States of America,0.903,Very High Education Level,High income,"Houston, TX, United States",64.32,1.0,99.0
+Uruguay,0.733,High to Moderate Education Level,High income,"Almaty, Kazakhstan",64.17,2.0,98.0
+Albania,0.745,High to Moderate Education Level,Upper middle income,"Male, Maldives",63.89,5.0,95.0
+Algeria,0.664,High to Moderate Education Level,Upper middle income,"Lethbridge, AB, Canada",63.89,31.0,69.0
+Armenia,0.749,High to Moderate Education Level,Upper middle income,"Dhaka, Bangladesh",63.66,0.0,100.0
+Azerbaijan,0.709,High to Moderate Education Level,Upper middle income,"Philadelphia, PA, United States",63.65,1.0,99.0
+Belarus,0.838,Very High Education Level,Upper middle income,"Belo Horizonte, Brazil",63.54,29.0,71.0
+Belize,0.705,High to Moderate Education Level,Upper middle income,"Catania, Italy",63.51,1.0,99.0
+Bosnia and Herzegovina,0.718,High to Moderate Education Level,Upper middle income,"Kuala Lumpur, Malaysia",63.4,19.0,81.0
+Botswana,0.659,High to Moderate Education Level,Upper middle income,"Buenos Aires, Argentina",63.33,58.0,42.0
+Brazil,0.686,High to Moderate Education Level,Upper middle income,"Klang, Malaysia",62.84,41.0,59.0
+Bulgaria,0.805,Very High Education Level,Upper middle income,"Atlanta, GA, United States",62.77,2.0,98.0
+China,0.644,High to Moderate Education Level,Upper middle income,"Birmingham, United Kingdom",62.68,16.0,84.0
+Colombia,0.676,High to Moderate Education Level,Upper middle income,"Guatemala City, Guatemala",62.65,11.0,89.0
+Costa Rica,0.719,High to Moderate Education Level,Upper middle income,"Marseille, France",62.51,3.0,97.0
+Cuba,0.78,High to Moderate Education Level,Upper middle income,"Tripoli, Libya",62.29,0.0,100.0
+Dominican Republic,0.643,High to Moderate Education Level,Upper middle income,"Anchorage, AK, United States",62.27,0.0,100.0
+Ecuador,0.697,High to Moderate Education Level,Upper middle income,"Curitiba, Brazil",62.19,27.000002,73.0
+Equatorial Guinea,0.467,Low to Moderate Education Level,Upper middle income,"Guadalajara, Mexico",61.99,5.0,95.0
+Fiji,0.787,High to Moderate Education Level,Upper middle income,"Red Deer, Canada",61.75,12.0,88.0
+Gabon,0.628,High to Moderate Education Level,Upper middle income,"Kelowna, Canada",61.56,10.0,90.0
+Guatemala,0.519,Low to Moderate Education Level,Upper middle income,"Quezon City, Philippines",60.99,0.0,100.0
+Guyana,0.601,High to Moderate Education Level,Upper middle income,"Quito, Ecuador",60.92,1.0,99.0
+Iran (Islamic Republic of),0.741,High to Moderate Education Level,Upper middle income,"Puebla, Mexico",60.58,1.0,99.0
+Iraq,0.557,Low to Moderate Education Level,Upper middle income,"Cairns, Australia",60.57,1.0,99.0
+Jamaica,0.69,High to Moderate Education Level,Upper middle income,"Cordoba, Argentina",60.38,0.0,100.0
+Jordan,0.711,High to Moderate Education Level,Upper middle income,"Harare, Zimbabwe",60.35,6.0,94.0
+Kazakhstan,0.814,Very High Education Level,Upper middle income,"Craiova, Romania",60.2,0.0,100.0
+Lebanon,0.637,High to Moderate Education Level,Upper middle income,"San Francisco, CA, United States",60.1,6.0,94.0
+Libya,0.61,High to Moderate Education Level,Upper middle income,"Sudbury, Canada",60.1,8.0,92.0
+Malaysia,0.719,High to Moderate Education Level,Upper middle income,"Naples, Italy",59.96,0.0,100.0
+Maldives,0.573,Low to Moderate Education Level,Upper middle income,"Dar es Salaam, Tanzania",59.9,17.0,83.0
+Mauritius,0.736,High to Moderate Education Level,Upper middle income,"Ghaziabad, India",59.83,0.0,100.0
+Mexico,0.678,High to Moderate Education Level,Upper middle income,"Sault Ste. Marie, Canada",59.81,5.0,95.0
+Montenegro,0.803,Very High Education Level,Upper middle income,"Santiago, Chile",59.8,6.0,94.0
+Namibia,0.584,Low to Moderate Education Level,Upper middle income,"Brasilia, Brazil",59.46,65.0,35.0
+Paraguay,0.631,High to Moderate Education Level,Upper middle income,"Nice, France",59.43,0.0,100.0
+Peru,0.689,High to Moderate Education Level,Upper middle income,"Washington, DC, United States",59.43,4.0,96.0
+Romania,0.762,High to Moderate Education Level,Upper middle income,"Delhi, India",59.15,2.0,98.0
+Russian Federation,0.832,Very High Education Level,Upper middle income,"Baghdad, Iraq",59.13,19.0,81.0
+Samoa,0.692,High to Moderate Education Level,Upper middle income,"Nairobi, Kenya",59.03,18.0,82.0
+Serbia,0.778,High to Moderate Education Level,Upper middle income,"Winnipeg, Canada",58.93,5.0,95.0
+South Africa,0.708,High to Moderate Education Level,Upper middle income,"Minsk, Belarus",58.72,10.0,90.0
+Suriname,0.636,High to Moderate Education Level,Upper middle income,"Darwin, Australia",58.47,70.0,30.0
+Thailand,0.661,High to Moderate Education Level,Upper middle income,"Indianapolis, IN, United States",57.66,0.0,100.0
+The former Yugoslav,,,Upper middle income,"Kansas City, MO, United States",57.41,4.0,96.0
+Macedonia,0.691,High to Moderate Education Level,Upper middle income,"Liege, Belgium",57.38,5.0,95.0
+Turkey,0.689,High to Moderate Education Level,Upper middle income,"Noida, India",57.12,0.0,100.0
+Turkmenistan,0.653,High to Moderate Education Level,Upper middle income,"Jacksonville, FL, United States",56.82,1.0,99.0
+Venezuela (Boliv. Rep. of),0.741,High to Moderate Education Level,Lower middle income,"Malmo, Sweden",56.59,1.0,99.0
+Angola,0.5,Low to Moderate Education Level,Lower middle income,"Athens, Greece",56.42,34.0,66.0
+Bangladesh,0.529,Low to Moderate Education Level,Lower middle income,"Louisville, KY, United States",56.06,54.000004,45.999996
+Bhutan,0.496,Low to Moderate Education Level,Lower middle income,"Paris, France",56.02,6.0,94.0
+Bolivia (Plurin. State of),0.687,High to Moderate Education Level,Lower middle income,"Manchester, United Kingdom",55.81,7.0,93.0
+Cabo Verde,0.562,Low to Moderate Education Level,Lower middle income,"Geelong, Australia",55.76,33.0,67.0
+Cambodia,0.484,Low to Moderate Education Level,Lower middle income,"Tehran, Iran",55.72,3.0,97.0
+Cameroon,0.547,Low to Moderate Education Level,Lower middle income,"Gaborone, Botswana",55.67,3.0,97.0
+Congo,0.543,Low to Moderate Education Level,Lower middle income,"Casablanca, Morocco",55.39,0.0,100.0
+Côte d’Ivoire,0.543,Low to Moderate Education Level,Lower middle income,"San Jose, Costa Rica",55.38,15.000001,85.0
+Djibouti,0.325,Very Low Education Level,Lower middle income,"Ulaanbaatar, Mongolia",55.34,67.0,33.0
+Egypt,0.613,High to Moderate Education Level,Lower middle income,"Cancun, Mexico",55.18,23.0,77.0
+El Salvador,0.555,Low to Moderate Education Level,Lower middle income,"Montpellier, France",55.16,2.0,98.0
+Eswatini,0.557,Low to Moderate Education Level,Lower middle income,"Minneapolis, MN, United States",55.1,0.0,100.0
+Georgia,0.845,Very High Education Level,Upper middle income,"Gurgaon, India",55.09,43.0,57.0
+Ghana,0.563,Low to Moderate Education Level,Lower middle income,"Oshawa, Canada",55.08,5.0,95.0
+Honduras,0.499,Low to Moderate Education Level,Lower middle income,"Spokane, WA, United States",55.06,4.0,96.0
+India,0.555,Low to Moderate Education Level,Lower middle income,"Ballarat, Australia",55.05,3.0,97.0
+Indonesia,0.65,High to Moderate Education Level,Lower middle income,"Brampton, Canada",54.98,4.0,96.0
+Kenya,0.534,Low to Moderate Education Level,Lower middle income,"Las Vegas, NV, United States",54.89,1.0,99.0
+Kiribati,0.594,Low to Moderate Education Level,Lower middle income,"Montevideo, Uruguay",54.81,0.0,100.0
+Kyrgyzstan,0.735,High to Moderate Education Level,Lower middle income,"Bangalore, India",54.81,3.0,97.0
+Lao People\'s Dem. Rep,0.481,Low to Moderate Education Level,Lower middle income,"Thessaloniki, Greece",54.8,2.0,98.0
+Lesotho,0.532,Low to Moderate Education Level,Lower middle income,"Hamilton, Canada",54.53,3.0,97.0
+Mauritania,0.396,Very Low Education Level,Lower middle income,"Bilbao, Spain",54.42,1.0,99.0
+Mongolia,0.766,High to Moderate Education Level,Lower middle income,"Lille, France",54.33,0.0,100.0
+Morocco,0.569,Low to Moderate Education Level,Lower middle income,"Grenoble, France",54.2,20.0,80.0
+Myanmar,0.464,Low to Moderate Education Level,Lower middle income,"Karachi, Pakistan",54.1,1.0,99.0
+Nicaragua,0.573,Low to Moderate Education Level,Lower middle income,"Johor Bahru, Malaysia",54.07,1.0,99.0
+Nigeria,0.499,Low to Moderate Education Level,Lower middle income,"Algiers, Algeria",53.88,0.0,100.0
+Pakistan,0.402,Low to Moderate Education Level,Lower middle income,"Ho Chi Minh City, Vietnam",53.61,7.0,93.0
+Papua New Guinea,0.439,Low to Moderate Education Level,Lower middle income,"London, Canada",53.59,8.0,92.0
+Philippines,0.661,High to Moderate Education Level,Lower middle income,"Phnom Penh, Cambodia",53.56,47.0,53.0
+Republic of Moldova,0.71,High to Moderate Education Level,Lower middle income,"Jakarta, Indonesia",53.3,1.0,99.0
+Sao Tome and Principe,0.567,Low to Moderate Education Level,Lower middle income,"London, United Kingdom",53.29,49.0,51.0
+Solomon Islands,0.474,Low to Moderate Education Level,Lower middle income,"Toowoomba, Australia",53.17,3.0,97.0
+Sri Lanka,0.746,High to Moderate Education Level,Lower middle income,"Odessa (Odesa), Ukraine",53.17,0.0,100.0
+State of Palestine,0.66,Low to Moderate Education Level,Lower middle income,"Medellin, Colombia",53.12,0.0,100.0
+Sudan,0.345,Very Low Education Level,Low income,"Rome, Italy",53.11,43.0,57.0
+Timor-Leste,0.51,Low to Moderate Education Level,Lower middle income,"Rennes, France",53.0,4.0,96.0
+Tunisia,0.659,High to Moderate Education Level,Lower middle income,"Petaling Jaya, Malaysia",52.99,2.0,98.0
+Ukraine,0.794,High to Moderate Education Level,Lower middle income,"Amadora, Portugal",52.98,1.0,99.0
+Uzbekistan,0.718,High to Moderate Education Level,Lower middle income,"Drogheda, Ireland",52.96,50.0,50.0
+Vanuatu,0.561,Low to Moderate Education Level,Lower middle income,"Portland, OR, United States",52.85,0.0,100.0
+Viet Nam,0.63,High to Moderate Education Level,Lower middle income,"Regina, Canada",52.82,0.0,100.0
+Zambia,0.557,Low to Moderate Education Level,Lower middle income,"Kamloops, Canada",52.63,0.0,100.0
+Zimbabwe,0.587,Low to Moderate Education Level,Lower middle income,"Brussels, Belgium",52.41,12.0,88.0
+United Rep. of Tanzania,0.429,Low to Moderate Education Level,Lower middle income,"Dnipro, Ukraine",52.31,2.0,98.0
+Afghanistan,0.414,Low to Moderate Education Level,Low income,"Rostov-na-donu, Russia",52.3,12.0,88.0
+Benin,0.476,Low to Moderate Education Level,Low income,"Miami, FL, United States",52.28,3.0,97.0
+Burkina Faso,0.312,Very Low Education Level,Low income,"Phoenix, AZ, United States",52.23,1.0,99.0
+Burundi,0.417,Low to Moderate Education Level,Low income,"Bari, Italy",52.15,1.0,99.0
+Central African Republic,0.353,Very Low Education Level,Low income,"Dublin, Ireland",51.91,16.0,84.0
+Chad,0.282,Very Low Education Level,Low income,"Cebu, Philippines",51.88,5.0,95.0
+Comoros,0.482,Low to Moderate Education Level,Low income,"Wollongong, Australia",51.73,0.0,100.0
+Dem. People\'s Rep. Korea,,,Low income,"Florianopolis, Brazil",51.49,15.000001,85.0
+Dem. Rep. of the Congo,0.496,Low to Moderate Education Level,Low income,"Orlando, FL, United States",51.41,0.0,100.0
+Eritrea,0.296,Very Low Education Level,Low income,"Ufa, Russia",51.4,6.0,94.0
+Ethiopia,0.341,Very Low Education Level,Low income,"San Miguel de Allende, Mexico",51.35,1.0,99.0
+Gambia,0.406,Low to Moderate Education Level,Low income,"Seattle, WA, United States",51.35,0.0,100.0
+Guinea,0.354,Very Low Education Level,Low income,"Lyon, France",51.29,1.0,99.0
+Guinea-Bissau,0.414,Very Low Education Level,Low income,"Turin, Italy",51.28,11.0,89.0
+Haiti,0.456,Low to Moderate Education Level,Low income,"Nottingham, United Kingdom",51.16,3.0,97.0
+Liberia,0.426,Low to Moderate Education Level,Low income,"Los Angeles, CA, United States",50.82,5.0,95.0
+Madagascar,0.486,Low to Moderate Education Level,Low income,"Dallas, TX, United States",50.64,13.0,87.0
+Malawi,0.47,Low to Moderate Education Level,Low income,"Tucson, AZ, United States",50.29,5.0,95.0
+Mali,0.286,Very Low Education Level,Low income,"Cairo, Egypt",49.68,3.0,97.0
+Mozambique,0.395,Very Low Education Level,Low income,"Playa del Carmen, Mexico",49.45,,
+Nepal,0.521,Low to Moderate Education Level,Low income,"Constanta, Romania",49.32,,
+Niger,0.249,Very Low Education Level,Low income,"Asuncion, Paraguay",49.29,,
+Rwanda,0.458,Low to Moderate Education Level,Low income,"Nanaimo, BC, Canada",49.23,,
+Senegal,0.345,Very Low Education Level,Low income,"Toulouse, France",48.92,,
+Sierra Leone,0.406,Low to Moderate Education Level,Low income,"Barcelona, Spain",48.87,,
+Somalia,,,Low income,"Mysore, India",48.85,,
+South Sudan,0.307,Very Low Education Level,Low income,"Saskatoon, Canada",48.81,,
+Syrian Arab Republic,0.416,Low to Moderate Education Level,Low income,"Kharkiv, Ukraine",48.65,,
+Tajikistan,0.682,Low to Moderate Education Level,Lower middle income,"Liverpool, United Kingdom",48.63,,
+Togo,0.517,Low to Moderate Education Level,Low income,"Indore, India",48.61,,
+Uganda,0.523,Low to Moderate Education Level,Low income,"Sacramento, CA, United States",48.6,,
+Yemen,0.36,Very Low Education Level,Low income,"Rawalpindi, Pakistan",48.57,,

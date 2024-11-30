@@ -1,0 +1,181 @@
+﻿Country,Education Index,Education Level,Income
+Argentina,0.816,Very High Education Level,High income
+Australia,0.929,Very High Education Level,High income
+Austria,0.852,Very High Education Level,High income
+Bahamas,0.726,High to Moderate Education Level,High income
+Bahrain,0.758,High to Moderate Education Level,High income
+Barbados,0.777,High to Moderate Education Level,High income
+Belgium,0.893,Very High Education Level,High income
+Brunei Darussalam,0.704,High to Moderate Education Level,High income
+Canada,0.899,Very High Education Level,High income
+Chile,0.8,Very High Education Level,High income
+Croatia,0.791,High to Moderate Education Level,High income
+Cyprus,0.808,Very High Education Level,High income
+Czechia,0.893,Very High Education Level,High income
+Denmark,0.92,Very High Education Level,High income
+Estonia,0.869,Very High Education Level,High income
+Finland,0.906,Very High Education Level,High income
+France,0.804,Very High Education Level,High income
+Germany,0.94,Very High Education Level,High income
+Greece,0.838,Very High Education Level,High income
+China Hong Kong SAR,0.855,Very High Education Level,High income
+Hungary,0.815,Very High Education Level,High income
+Iceland,0.912,Very High Education Level,High income
+Ireland,0.918,Very High Education Level,High income
+Israel,0.874,Very High Education Level,High income
+Italy,0.791,High to Moderate Education Level,High income
+Japan,0.848,Very High Education Level,High income
+Kuwait,0.62,High to Moderate Education Level,High income
+Latvia,0.866,Very High Education Level,High income
+Lithuania,0.879,Very High Education Level,High income
+Luxembourg,0.792,High to Moderate Education Level,High income
+Malta,0.818,Very High Education Level,High income
+Netherlands,0.906,Very High Education Level,High income
+New Zealand,0.917,Very High Education Level,High income
+Norway,0.915,Very High Education Level,High income
+Oman,0.706,High to Moderate Education Level,High income
+Panama,0.692,High to Moderate Education Level,High income
+Poland,0.866,Very High Education Level,High income
+Portugal,0.759,High to Moderate Education Level,High income
+Qatar,0.698,High to Moderate Education Level,High income
+Republic of Korea,0.862,Very High Education Level,High income
+Saudi Arabia,0.787,High to Moderate Education Level,High income
+Singapore,0.832,Very High Education Level,High income
+Slovakia,0.831,Very High Education Level,High income
+Slovenia,0.886,Very High Education Level,High income
+Spain,0.824,Very High Education Level,High income
+Sweden,0.904,Very High Education Level,High income
+Switzerland,0.897,Very High Education Level,High income
+Taiwan Province of China,,,High income
+Trinidad and Tobago,0.722,High to Moderate Education Level,High income
+United Arab Emirates,0.738,High to Moderate Education Level,High income
+United Kingdom,0.914,Very High Education Level,High income
+United States of America,0.903,Very High Education Level,High income
+Uruguay,0.733,High to Moderate Education Level,High income
+Albania,0.745,High to Moderate Education Level,Upper middle income
+Algeria,0.664,High to Moderate Education Level,Upper middle income
+Armenia,0.749,High to Moderate Education Level,Upper middle income
+Azerbaijan,0.709,High to Moderate Education Level,Upper middle income
+Belarus,0.838,Very High Education Level,Upper middle income
+Belize,0.705,High to Moderate Education Level,Upper middle income
+Bosnia and Herzegovina,0.718,High to Moderate Education Level,Upper middle income
+Botswana,0.659,High to Moderate Education Level,Upper middle income
+Brazil,0.686,High to Moderate Education Level,Upper middle income
+Bulgaria,0.805,Very High Education Level,Upper middle income
+China,0.644,High to Moderate Education Level,Upper middle income
+Colombia,0.676,High to Moderate Education Level,Upper middle income
+Costa Rica,0.719,High to Moderate Education Level,Upper middle income
+Cuba,0.78,High to Moderate Education Level,Upper middle income
+Dominican Republic,0.643,High to Moderate Education Level,Upper middle income
+Ecuador,0.697,High to Moderate Education Level,Upper middle income
+Equatorial Guinea,0.467,Low to Moderate Education Level,Upper middle income
+Fiji,0.787,High to Moderate Education Level,Upper middle income
+Gabon,0.628,High to Moderate Education Level,Upper middle income
+Guatemala,0.519,Low to Moderate Education Level,Upper middle income
+Guyana,0.601,High to Moderate Education Level,Upper middle income
+Iran (Islamic Republic of),0.741,High to Moderate Education Level,Upper middle income
+Iraq,0.557,Low to Moderate Education Level,Upper middle income
+Jamaica,0.69,High to Moderate Education Level,Upper middle income
+Jordan,0.711,High to Moderate Education Level,Upper middle income
+Kazakhstan,0.814,Very High Education Level,Upper middle income
+Lebanon,0.637,High to Moderate Education Level,Upper middle income
+Libya,0.61,High to Moderate Education Level,Upper middle income
+Malaysia,0.719,High to Moderate Education Level,Upper middle income
+Maldives,0.573,Low to Moderate Education Level,Upper middle income
+Mauritius,0.736,High to Moderate Education Level,Upper middle income
+Mexico,0.678,High to Moderate Education Level,Upper middle income
+Montenegro,0.803,Very High Education Level,Upper middle income
+Namibia,0.584,Low to Moderate Education Level,Upper middle income
+Paraguay,0.631,High to Moderate Education Level,Upper middle income
+Peru,0.689,High to Moderate Education Level,Upper middle income
+Romania,0.762,High to Moderate Education Level,Upper middle income
+Russian Federation,0.832,Very High Education Level,Upper middle income
+Samoa,0.692,High to Moderate Education Level,Upper middle income
+Serbia,0.778,High to Moderate Education Level,Upper middle income
+South Africa,0.708,High to Moderate Education Level,Upper middle income
+Suriname,0.636,High to Moderate Education Level,Upper middle income
+Thailand,0.661,High to Moderate Education Level,Upper middle income
+The former Yugoslav,,,Upper middle income
+Macedonia,0.691,High to Moderate Education Level,Upper middle income
+Turkey,0.689,High to Moderate Education Level,Upper middle income
+Turkmenistan,0.653,High to Moderate Education Level,Upper middle income
+Venezuela (Boliv. Rep. of),0.741,High to Moderate Education Level,Lower middle income
+Angola,0.5,Low to Moderate Education Level,Lower middle income
+Bangladesh,0.529,Low to Moderate Education Level,Lower middle income
+Bhutan,0.496,Low to Moderate Education Level,Lower middle income
+Bolivia (Plurin. State of),0.687,High to Moderate Education Level,Lower middle income
+Cabo Verde,0.562,Low to Moderate Education Level,Lower middle income
+Cambodia,0.484,Low to Moderate Education Level,Lower middle income
+Cameroon,0.547,Low to Moderate Education Level,Lower middle income
+Congo,0.543,Low to Moderate Education Level,Lower middle income
+Côte d’Ivoire,0.543,Low to Moderate Education Level,Lower middle income
+Djibouti,0.325,Very Low Education Level,Lower middle income
+Egypt,0.613,High to Moderate Education Level,Lower middle income
+El Salvador,0.555,Low to Moderate Education Level,Lower middle income
+Eswatini,0.557,Low to Moderate Education Level,Lower middle income
+Georgia,0.845,Very High Education Level,Upper middle income
+Ghana,0.563,Low to Moderate Education Level,Lower middle income
+Honduras,0.499,Low to Moderate Education Level,Lower middle income
+India,0.555,Low to Moderate Education Level,Lower middle income
+Indonesia,0.65,High to Moderate Education Level,Lower middle income
+Kenya,0.534,Low to Moderate Education Level,Lower middle income
+Kiribati,0.594,Low to Moderate Education Level,Lower middle income
+Kyrgyzstan,0.735,High to Moderate Education Level,Lower middle income
+Lao People\'s Dem. Rep,0.481,Low to Moderate Education Level,Lower middle income
+Lesotho,0.532,Low to Moderate Education Level,Lower middle income
+Mauritania,0.396,Very Low Education Level,Lower middle income
+Mongolia,0.766,High to Moderate Education Level,Lower middle income
+Morocco,0.569,Low to Moderate Education Level,Lower middle income
+Myanmar,0.464,Low to Moderate Education Level,Lower middle income
+Nicaragua,0.573,Low to Moderate Education Level,Lower middle income
+Nigeria,0.499,Low to Moderate Education Level,Lower middle income
+Pakistan,0.402,Low to Moderate Education Level,Lower middle income
+Papua New Guinea,0.439,Low to Moderate Education Level,Lower middle income
+Philippines,0.661,High to Moderate Education Level,Lower middle income
+Republic of Moldova,0.71,High to Moderate Education Level,Lower middle income
+Sao Tome and Principe,0.567,Low to Moderate Education Level,Lower middle income
+Solomon Islands,0.474,Low to Moderate Education Level,Lower middle income
+Sri Lanka,0.746,High to Moderate Education Level,Lower middle income
+State of Palestine,0.66,Low to Moderate Education Level,Lower middle income
+Sudan,0.345,Very Low Education Level,Low income
+Timor-Leste,0.51,Low to Moderate Education Level,Lower middle income
+Tunisia,0.659,High to Moderate Education Level,Lower middle income
+Ukraine,0.794,High to Moderate Education Level,Lower middle income
+Uzbekistan,0.718,High to Moderate Education Level,Lower middle income
+Vanuatu,0.561,Low to Moderate Education Level,Lower middle income
+Viet Nam,0.63,High to Moderate Education Level,Lower middle income
+Zambia,0.557,Low to Moderate Education Level,Lower middle income
+Zimbabwe,0.587,Low to Moderate Education Level,Lower middle income
+United Rep. of Tanzania,0.429,Low to Moderate Education Level,Lower middle income
+Afghanistan,0.414,Low to Moderate Education Level,Low income
+Benin,0.476,Low to Moderate Education Level,Low income
+Burkina Faso,0.312,Very Low Education Level,Low income
+Burundi,0.417,Low to Moderate Education Level,Low income
+Central African Republic,0.353,Very Low Education Level,Low income
+Chad,0.282,Very Low Education Level,Low income
+Comoros,0.482,Low to Moderate Education Level,Low income
+Dem. People\'s Rep. Korea,,,Low income
+Dem. Rep. of the Congo,0.496,Low to Moderate Education Level,Low income
+Eritrea,0.296,Very Low Education Level,Low income
+Ethiopia,0.341,Very Low Education Level,Low income
+Gambia,0.406,Low to Moderate Education Level,Low income
+Guinea,0.354,Very Low Education Level,Low income
+Guinea-Bissau,0.414,Very Low Education Level,Low income
+Haiti,0.456,Low to Moderate Education Level,Low income
+Liberia,0.426,Low to Moderate Education Level,Low income
+Madagascar,0.486,Low to Moderate Education Level,Low income
+Malawi,0.47,Low to Moderate Education Level,Low income
+Mali,0.286,Very Low Education Level,Low income
+Mozambique,0.395,Very Low Education Level,Low income
+Nepal,0.521,Low to Moderate Education Level,Low income
+Niger,0.249,Very Low Education Level,Low income
+Rwanda,0.458,Low to Moderate Education Level,Low income
+Senegal,0.345,Very Low Education Level,Low income
+Sierra Leone,0.406,Low to Moderate Education Level,Low income
+Somalia,,,Low income
+South Sudan,0.307,Very Low Education Level,Low income
+Syrian Arab Republic,0.416,Low to Moderate Education Level,Low income
+Tajikistan,0.682,Low to Moderate Education Level,Lower middle income
+Togo,0.517,Low to Moderate Education Level,Low income
+Uganda,0.523,Low to Moderate Education Level,Low income
+Yemen,0.36,Very Low Education Level,Low income
