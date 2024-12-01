@@ -8,7 +8,7 @@ def criar_nova_tabela():
         caminho_tabela = input("Digite o caminho do arquivo CSV da tabela: ").strip()
 
         try:
-            tabela = pd.read_csv(caminho_tabela)
+            tabela = pd.read_csv(caminho_tabela, sep=",")  # Configuração do separador como ";"
             print(f"Tabela {i} carregada com sucesso!")
             print(f"Colunas disponíveis: {list(tabela.columns)}")
         except Exception as e:
@@ -70,7 +70,7 @@ def criar_nova_tabela():
     nome_arquivo = input("\nDigite o nome para salvar a nova tabela (sem extensão): ").strip()
     caminho_saida = f"{nome_arquivo}.csv"
     try:
-        nova_tabela.to_csv(caminho_saida, index=False)
+        nova_tabela.to_csv(caminho_saida, sep=";", index=False)  # Configuração do separador como ";"
         print(f"\nNova tabela salva com sucesso no arquivo: {caminho_saida}")
     except Exception as e:
         print(f"Erro ao salvar o arquivo: {e}")
